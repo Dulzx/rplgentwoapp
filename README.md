@@ -23,7 +23,7 @@ Aplikasi ini dibangun untuk mempermudah siswa dalam mengakses informasi seputar 
 ## 📷 Tampilan Aplikasi
 
 ### 🔹 Halaman Beranda
-<img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshots/homepage.png" width="300"/>
+<img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/homepage.png" width="300"/>
 
 ### 🔹 Menu Navigasi Samping
 <img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/menu.png" width="300"/>
