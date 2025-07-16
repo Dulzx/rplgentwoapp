@@ -22,11 +22,11 @@ Aplikasi ini dibangun untuk mempermudah siswa dalam mengakses informasi seputar 
 
 ## 📷 Tampilan Aplikasi
 
-<p align="center">
-  <img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/homepage.png?raw=true" width="300" style="margin-right: 10px;" />
-  <img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/menu.png?raw=true" width="300" />
-</p>
+### 🔹 Halaman Beranda
+<img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/homepage.png" width="300"/>
 
+### 🔹 Menu Navigasi Samping
+<img src="https://github.com/Dulzx/rplgentwoapp/blob/main/screenshot/menu.png" width="300"/>
 
 ---
 
